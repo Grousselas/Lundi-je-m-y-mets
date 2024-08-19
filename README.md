@@ -95,12 +95,12 @@
     </nav>
     <section id="about">
         <h2>À Propos</h2>
-        <p>Je suis un coach sportif diplômé et conseillé en diététique. Avec plusieurs années d'expérience, j'accompagne mes clients dans l'atteinte de leurs objectifs de santé, de performance physique et de bien-être. Ma mission est de vous fournir des plans d'entraînement personnalisés et des conseils nutritionnels adaptés à vos besoins.</p>
+        <p>Je suis coach sportif diplômé et conseillé en diététique. Avec plusieurs années d'expérience, j'accompagne mes clients dans l'atteinte de leurs objectifs de santé, de performance physique et de bien-être. Ma mission est de vous fournir des plans d'entraînement personnalisés et des conseils nutritionnels adaptés à vos besoins.</p>
     </section>
     <section id="services" class="services">
         <h2>Mes Services</h2>
         <ul>
-            <li>Coaching sportif personnalisé</li>
+            <li>Coaching sportif personnalisé sur 8 semaines</li>
             <li>Planification diététique sur mesure</li>
             <li>Suivi et évaluation des performances</li>
             <li>Conseils en mode de vie sain</li>
